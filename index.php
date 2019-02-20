@@ -35,7 +35,7 @@
 	    		<div id="misi">
 	    			<label><h2>Mision</h2></label>	
 	    			<p>Somos una empresa de comercialización de productos y servicios en el área de libros y papeleria
-					enfocada a brindar el mejor servicio y los mejores productos de forma innovadora a nuestros clietes..</p><br><br>
+					enfocada a brindar el mejor servicio y los mejores productos de forma innovadora a nuestros clientes.</p><br><br>
 	    		</div>    
 			</div>
 		</div>
