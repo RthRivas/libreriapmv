@@ -12,7 +12,7 @@
 
 	}
 	#grafic {
-		width:350px; 
+		width:400px; 
 		height:350px;
 	}
 
@@ -20,7 +20,7 @@
 </head>
 <body>
 	<div id="contenedor">
-		<div role="tabpanel" class="tab-pane fade active in" id="" aria-labelledby="-tab">
+		<div role="tabpanel" id="" aria-labelledby="-tab">
 			<div class="col-xs-12 col-sm-6 col-md-3">
 	            <div class="thumbnail">
 	                 <a href=""><img id="grafic" src="img/venta1.png" ></a>
