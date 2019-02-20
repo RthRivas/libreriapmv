@@ -12,8 +12,8 @@
 
 	}
 	#grafic {
-		width:300px; 
-		height:500px;
+		width:450px; 
+		height:250px;
 	}
 
   </style>
