@@ -8,7 +8,7 @@
                       <div role="tabpanel" class="tab-pane fade active in" id="" aria-labelledby="-tab">
                                 <div class="col-xs-12 col-sm-6 col-md-3">
                                              <div class="thumbnail">
-                                               <a href=""><img  id="foto" src="img/productos/papeleria/folder.png"></a>
+                                               <a href=""><img  id="foto" src="img/productos/papeleria/Folder.png"></a>
                                                <div class="caption">
                                                  <h4>Nombre: Folder</h4><br>
                                                  <p>Proveedor: facela</p>
