@@ -7,12 +7,12 @@
   	#contenedor 
   	{
   			padding-left: 280px;
-  			height: 100px;
-  			width: 1400px;
+  			height: 90px;
+  			width: 1450px;
 
 	}
 	#grafic {
-		width:400px; 
+		width:450px; 
 		height:350px;
 	}
 
@@ -27,14 +27,14 @@
 	            </div>
 	        </div> 
 	    </div>
-	    <div role="tabpanel" class="tab-pane fade active in" id="" aria-labelledby="-tab">   
+	    <div role="tabpanel" id="" aria-labelledby="-tab">   
 	        <div class="col-xs-12 col-sm-6 col-md-3">
 	            <div class="thumbnail">
 	                 <a href=""><img id="grafic" src="img/venta2.png" ></a>
 	            </div>
 	        </div>
 	    </div><br>
-	    <div role="tabpanel" class="tab-pane fade active in" id="" aria-labelledby="-tab">     
+	    <div role="tabpanel" id="" aria-labelledby="-tab">     
 	        <div class="col-xs-12 col-sm-6 col-md-3">
 	            <div class="thumbnail">
 	                 <a href=""><img id="grafic" src="img/venta3.png" ></a>
