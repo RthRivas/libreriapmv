@@ -2,6 +2,7 @@
 <html >
 <head>
   <meta charset="UTF-8"> 
+  <link rel="shortcut icon" href="img/logo-libro.png" />
   
 </head>
 
