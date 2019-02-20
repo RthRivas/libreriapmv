@@ -12,7 +12,7 @@
 	 	?>
 	</header>
 	<center>
-	<form action="pagina-principal.php">
+	<form action="backend.php">
 		<h2>Iniciar Sesion Administrativo</h2>
 		<input type="text" name="txtusuarioemail" placeholder="Usuario o Correo" required/><br>
 		<br><input type="password" name="txtpass" placeholder="Contraseña" required><br><br>
