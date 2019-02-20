@@ -22,16 +22,20 @@
 		</div>	
 		<div>
 			<label><h2>¿Quienes somos?</h2></label>
-			<p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.  </p>
+			<p>Somos una empresa enfocada al comercio en el area de libros de todo genero, para todo publico, de igual manera
+			contamos con productos de papeleria, que son de necesarios en la oficiona y en la escuela, te invitamos a que revises
+			nuestro catalogo y veas nuestros increibles precios.</p>
 			<br>
 			<div id="otro">
 	   			<div id="visi" >
 	   				<label><h2>Vision</h2></label>
-	   				<p>Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero.</p><br>
+	   				<p>Ser una empresa con mejor calidad en todos nuestros productos utilizando como medio
+					la tecnologia para el cliente, innovando la forma de vender y procesar pedidos.</p><br>
 	   			</div>
 	    		<div id="misi">
 	    			<label><h2>Mision</h2></label>	
-	    			<p>Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante.  </p><br><br>
+	    			<p>Somos una empresa de comercialización de productos y servicios en el área de libros y papeleria
+					enfocada a brindar el mejor servicio y los mejores productos de forma innovadora a nuestros clietes..</p><br><br>
 	    		</div>    
 			</div>
 		</div>
